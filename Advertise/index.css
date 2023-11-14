@@ -1,0 +1,162 @@
+.hero-child,
+.purplehazeps5pro-d7f5efac-4a37-icon {
+  position: absolute;
+  top: 0;
+  left: 319px;
+  width: 1932px;
+  height: 978px;
+  object-fit: cover;
+}
+.purplehazeps5pro-d7f5efac-4a37-icon {
+  width: 835px;
+  height: 935px;
+  mix-blend-mode: luminosity;
+}
+.hero-item {
+  position: absolute;
+  top: 35.64px;
+  left: 1119px;
+  border-radius: 54px;
+  background-color: rgba(17, 17, 17, 0.8);
+  backdrop-filter: blur(500px);
+  width: 596px;
+  height: 827.05px;
+  opacity: 0.6;
+}
+.the-playstation-5 {
+  margin: 0;
+}
+.dimensions-42-in {
+  margin-bottom: 0;
+}
+.dimensions-42-in-106-mm-ta {
+  margin: 0;
+  padding-left: 32px;
+}
+.the-playstation-5-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.the-playstation-5-container {
+  position: absolute;
+  top: 164.57px;
+  left: 1182px;
+  display: flex;
+  align-items: center;
+  width: 489px;
+  height: 573.38px;
+}
+.hero {
+  position: absolute;
+  top: 102px;
+  left: -319px;
+  width: 1932px;
+  height: 978px;
+}
+.bg,
+.r-1-icon {
+  position: absolute;
+  left: 0;
+}
+.bg {
+  top: 12px;
+  background-color: #000;
+  width: 1530px;
+  height: 102px;
+}
+.r-1-icon {
+  top: calc(50% - 51.5px);
+  width: 240px;
+  height: 127px;
+  object-fit: cover;
+}
+.contact {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: 17px;
+  display: inline-block;
+  width: 125px;
+  height: 25px;
+}
+.button,
+.terms {
+  position: absolute;
+  height: 56px;
+}
+.button {
+  top: calc(50% - 28.5px);
+  right: 81px;
+  border-radius: 29px;
+  border: 1px solid red;
+  box-sizing: border-box;
+  width: 160px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.terms {
+  left: 453px;
+}
+.about,
+.services,
+.terms {
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 122px;
+  cursor: pointer;
+}
+.about {
+  position: absolute;
+  left: 302px;
+  height: 56px;
+  cursor: pointer;
+}
+.services {
+  left: 151px;
+  cursor: pointer;
+}
+.home,
+.navbar,
+.services,
+.terms-parent {
+  position: absolute;
+  height: 56px;
+}
+.home {
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 122px;
+  cursor: pointer;
+}
+.navbar,
+.terms-parent {
+  top: 35px;
+  left: 432px;
+  width: 575px;
+ 
+  
+}
+.navbar {
+  top: -12px;
+  left: 0;
+  width: 1530px;
+  height: 127px;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+}
+.advertise {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-inherit);
+  color: var(--color-white);
+  font-family: var(--font-inherit);
+}
